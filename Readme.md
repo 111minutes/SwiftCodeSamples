@@ -9,11 +9,10 @@ Proprietary enterprise app for wireless door opening in 111 Minutes office
 
 * Language: Swift 4.0
 * Features to note:
-* Web server interaction
-* Code formatting
-* Methods and variables naming
-* Methods segregation
-* Code readability
+  * Code formatting
+  * Methods and variables naming
+  * Methods segregation
+  * Code readability
 
 ### Cira
 
@@ -24,8 +23,7 @@ Proprietary enterprise app for Microsoft Azure Account synchronization
 
 * Language: Swift 2.0
 * Features to note:
-* Web server interaction
-* Code formatting
-* Methods and variables naming
-* Methods segregation
-* Code readability
+  * Code formatting
+  * Methods and variables naming
+  * Methods segregation
+  * Code readability
