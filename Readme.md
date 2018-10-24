@@ -2,13 +2,30 @@
 
 ### 111 Key
 
-#### Proprietary enterprise app for wireless door openning 
+#### General description
+Proprietary enterprise app for wireless door opening in 111 Minutes office
 
-### General information
+#### Details
 
-* Language: Objective-C
+* Language: Swift 4.0
 * Features to note:
-    * Code formatting
-    * Methods and variables naming
-    * Methods segregation
-    * Code readability
+* Web server interaction
+* Code formatting
+* Methods and variables naming
+* Methods segregation
+* Code readability
+
+### Cira
+
+#### General description
+Proprietary enterprise app for Microsoft Azure Account synchronization
+
+#### Details
+
+* Language: Swift 2.0
+* Features to note:
+* Web server interaction
+* Code formatting
+* Methods and variables naming
+* Methods segregation
+* Code readability
